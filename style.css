@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Ms Madi', cursive;    
+}
+
+.a1, .a2, .a3, .a4, .a5 {
+    font-size: 23px;
+    width: 30%;
+    padding: 5px;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px;
+}
